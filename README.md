@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Joao Vitor Machado!
-- 🌱 Estudando Desenvolvimento Web Full Stack focado em Javascript
-- 📫 Contate-me no email: joaovitormdesa@gmail.com ou no Twitter: @JaoVitM
+- 🌱 Estudando Desenvolvimento Web Full Stack focado atualmente em Javascript
+- 🧩Aqui eu posto todos os meus projetos!
 
 <div align="center">
   <a href="https://github.com/jaovitm">
