@@ -1,5 +1,5 @@
 # 👋 Oi, eu sou o Joao Vitor Machado!
-- 🌱 Estudando Desenvolvimento Web Full Stack focado atualmente em Javascript
+- 🌱 Estudando Desenvolvimento Web Full Stack Javascript (ReactJS, NodeJs)
 - 🧩Aqui eu posto todos os meus projetos!
 
 <div align="center">
