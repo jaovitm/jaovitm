@@ -1,5 +1,5 @@
 # 👋 Oi, eu sou o Joao Vitor Machado!
-- 🌱 Estudando Desenvolvimento Web Full Stack (ReactJS, NodeJs)
+- 🌱 Estudando Software Engineering ;
 - 🧩Aqui eu posto todos os meus projetos!
 
 <div align="center">
@@ -10,6 +10,7 @@
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GIT" height="60" width="70" src="https://www.svgrepo.com/show/184143/java.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://www.svgrepo.com/show/354259/react.svg">
   <img align="center" alt="NODE" height="30" width="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg">
   <img align="center" alt="GIT" height="60" width="70" src="https://www.svgrepo.com/show/353778/git.svg">
