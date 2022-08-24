@@ -1,5 +1,5 @@
 # 👋 Oi, eu sou o Joao Vitor Machado!
-- 🌱 Estudando Software Engineering ;
+- 🌱 Estudando Software Engineering 
 - 🧩Aqui eu posto todos os meus projetos!
 
 <div align="center">
