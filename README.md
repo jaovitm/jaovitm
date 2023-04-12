@@ -1,6 +1,6 @@
-# 👋 Oi, eu sou o Joao Vitor Machado!
-- 🌱 Estudando Software Engineering 
-- 🧩Aqui eu posto todos os meus projetos!
+# 👋 Hello, my name is Joao Vitor Machado!
+- 🌱 I'm a Software Engineer
+- 🧩Welcome!
 
 <div align="center">
   <a href="https://github.com/jaovitm">
