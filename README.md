@@ -1,5 +1,5 @@
-# 👋 Hello, my name is Joao Vitor Machado!
-- 🌱 I'm a Software Engineer
+<h1 align="center">Hi 👋, I'm João Vitor</h1>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 - 🧩Welcome!
 
 <div align="center">
