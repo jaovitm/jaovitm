@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
+
 - 🧩Welcome!
+- I love to learn, grow and improve every day
+- 
 
 <div align="center">
   <a href="https://github.com/jaovitm">
