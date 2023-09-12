@@ -3,7 +3,7 @@
 
 - 🧩Welcome!
 - I love to learn, grow and improve every day
-- 
+- Machine Learning and AI
 
 <div align="center">
   <a href="https://github.com/jaovitm">
